@@ -29,6 +29,14 @@ export const Quiz = {
         "Black Panther"
       ],
       correctAnswer: "Avengers End Game"
+    },
+    {
+      question: "Did Stan Lee Create Batman?",
+      answers: [
+        "Yes",
+        "No"
+      ],
+      correctAnswer: "No"
     }
   ]
 };
